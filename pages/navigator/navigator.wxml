@@ -1,0 +1,2 @@
+<!--pages/navigator/navigator.wxml-->
+<navigator url="/pages/swiper/swiper">跳转</navigator>

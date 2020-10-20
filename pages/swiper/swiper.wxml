@@ -1,0 +1,10 @@
+<!--pages/swiper/swiper.wxml-->
+<swiper>
+<swiper-item>
+ <image src="https://ss1.bdstatic.com/70cFuXSh_Q1YnxGkpoWK1HF6hhy/it/u=3892521478,1695688217&fm=26&gp=0.jpg" />
+</swiper-item>
+
+<swiper-item>
+ <image src="https://ss0.bdstatic.com/70cFuHSh_Q1YnxGkpoWK1HF6hhy/it/u=1280325423,1024589167&fm=26&gp=0.jpg" />
+</swiper-item>
+</swiper>

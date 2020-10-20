@@ -1,0 +1,9 @@
+<!--index.wxml-->
+<view class="container">
+  <view class="userinfo">
+    <button bindtap="getLocation" data-position="aaa">获取位置</button>
+  </view>
+  <view wx:for="{{list}}">
+    {{item}}{{index}}
+  </view> 
+</view>

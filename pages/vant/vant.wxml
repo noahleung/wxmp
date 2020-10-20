@@ -1,0 +1,2 @@
+<!--pages/vant/vant.wxml-->
+<van-button type="primary" bindtap="tap" >按钮</van-button> 

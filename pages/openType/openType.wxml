@@ -1,0 +1,28 @@
+<!--pages/openType/openType.wxml-->
+<button class="btn" type="primary" open-type="contact">
+    contact
+</button>
+
+<button class="btn" type="primary" open-type="contact">
+    share
+</button>
+
+<button class="btn" type="primary" open-type="getPhoneNumber" bindgetphonenumber="getPhoneNumber">
+    getPhoneNumber
+</button>
+
+<button class="btn" type="primary" open-type="getUserInfo" bindgetuserinfo="getUserInfo">
+    getUserInfo
+</button>
+	
+<button class="btn" type="primary" open-type="launchApp">
+    launchApp
+</button>
+
+<button class="btn" type="primary" open-type="openSetting">
+    openSetting
+</button>
+
+<button class="btn" type="primary" open-type="feedback">
+    feedback
+</button>
